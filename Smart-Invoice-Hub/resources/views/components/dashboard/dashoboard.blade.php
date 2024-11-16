@@ -196,10 +196,12 @@
         document.getElementById('customer').innerText = response.data['summary']['customer']; 
         document.getElementById('category').innerText = response.data['summary']['category']; 
         document.getElementById('invoice').innerText  = response.data['summary']['invoice']; 
-        document.getElementById('total').innerText    = response.data['summary']['total']; 
-        document.getElementById('vat').innerText      = response.data['summary']['vat']; 
-        document.getElementById('discount').innerText = response.data['summary']['discount']; 
-        document.getElementById('payable').innerText  = response.data['summary']['payable']; 
+        document.getElementById('total').innerText    = (response.data['summary']['total']).toFixed(2); 
+        document.getElementById('vat').innerText      = (response.data['summary']['vat']).toFixed(2); 
+        document.getElementById('discount').innerText = (response.data['summary']['discount']).toFixed(2); 
+        // 
+        document.getElementById('payable').innerText = parseFloat(response.data['summary']['payable']).toFixed(2);
+ 
     }
 
 </script>
