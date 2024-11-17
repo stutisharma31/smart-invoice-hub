@@ -41,34 +41,28 @@ Follow these steps to get started:
    cd smart-invoice-hub
 2. Install Dependencies
 
-      ```bash
-        Copy code
-        composer install  
-        npm install
+       Copy code
+       composer install  
+       npm install
 
 3.Configure Environment
-       ```bash
-
+      
       Copy .env.example to .env
       Update database credentials in .env
-     cp .env.example .env  
-     php artisan key:generate  
+      cp .env.example .env  
+      php artisan key:generate  
 4.Run Migrations
 
-      ```bash
      php artisan migrate  
 5. Seed the Database (Optional)
-
-     ```bash
-     php artisan db:seed  
+   
+       php artisan db:seed  
 6.Compile Frontend Assets
 
-      ```bash
       npm run dev  
 7. Start Development Server
 
-     ```bash
-     php artisan serve
+       php artisan serve
      
 🌐 Access: Open http://127.0.0.1:8000 in your browser.
 
