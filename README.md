@@ -41,7 +41,6 @@ Follow these steps to get started:
    cd smart-invoice-hub
 2. Install Dependencies
 
-       Copy code
        composer install  
        npm install
 
