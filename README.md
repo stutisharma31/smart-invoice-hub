@@ -73,11 +73,4 @@ If you have any queries or suggestions, feel free to reach out:
 🔗 GitHub: @stutisharma31
 
 ❤️ Built with love and dedication to empower your business.
-### Highlights of this Version:
-1. **Emoji Usage**: Adds vibrancy and makes the content engaging.  
-2. **Clear Sections**: Better structure with headings and separators.  
-3. **Tech Stack and Features**: Cleanly listed for readability.  
-4. **Previews Section**: Placeholder for screenshots to make it visually appealing.  
-5. **Unique Tagline**: Sets a tone and identity for your project.  
-
 Let me know if you'd like further customizations!
