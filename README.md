@@ -1,13 +1,18 @@
 # 🌟 Smart Invoice Hub 🌟  
 *Your ultimate solution for seamless invoice management.*
 
----
-
 ## 🚀 About the Project  
 
 **Smart Invoice Hub** is a feature-rich Laravel application designed to simplify invoicing, automate billing, and streamline client management. Whether you’re a small business owner or a large enterprise, this tool is built to save your time and boost your productivity.  
 
----
+## LANDING PAGE
+![Screenshot 2024-11-11 210520](https://github.com/user-attachments/assets/1061c429-9981-4a52-869f-cb6b82c2e79d)
+
+## DASHBOARD
+![Screenshot 2024-11-12 160522](https://github.com/user-attachments/assets/d51d5321-e80d-4571-8bcc-5513246290d3)
+
+## INVOICE 
+![Screenshot 2024-11-13 115731](https://github.com/user-attachments/assets/9252ed38-7b52-4cb0-951f-582c3af42981)
 
 ## ✨ Features at a Glance  
 
